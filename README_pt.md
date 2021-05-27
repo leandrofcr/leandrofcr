@@ -8,6 +8,7 @@
 ### :space_invader: &nbsp;Sobre mim
 
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Atualmente estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) \
+&nbsp;&nbsp;&nbsp;:gear: &nbsp;Engenheiro Mecânico pela PUC (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Amor por ciência e inovação\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Apaixonado por resolver problemas e ajudar as pessoas.\
 &nbsp;&nbsp;&nbsp;:mountain_bicyclist: &nbsp;Indo cada dia mais longe com minha bike.\
