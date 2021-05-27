@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Engenheiro Mecânico pela PUC (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Amor por ciência e inovação\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Apaixonado por resolver problemas e ajudar as pessoas.\
-&nbsp;&nbsp;&nbsp;:mountain_bicyclist: &nbsp;Indo cada dia mais longe com minha bike.\
+&nbsp;&nbsp;&nbsp;:bicyclist:&nbsp;Indo cada dia mais longe com minha bike.\
 &nbsp;&nbsp;&nbsp;:brazil: &nbsp;Vivendo no Brasil.
 
 <p align="center">
