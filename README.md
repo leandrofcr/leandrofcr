@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and help people.\
 &nbsp;&nbsp;&nbsp;:mountain_bicyclist: &nbsp;Going further each day with my bicycle.\
-&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil (for a while..?).\
+&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil (for a while..?).
 
 <p align="center">
   <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 <hr/>
 
 
-  <summary><b> :computer: &nbsp;Technologies and tools, always learning</b></summary>
+<b> :computer: &nbsp;Technologies and tools, always learning</b>
   <br/>
 
 
@@ -46,7 +46,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
 <!-- ![]()&nbsp; -->
 
-<summary><b> :books: &nbsp;Coming soon...</b></summary>
+<b> :books: &nbsp;Coming soon...</b>
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
@@ -60,7 +60,7 @@
 
 <hr/>
 
-<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+<b>:gear: &nbsp;GitHub Statistics</b>
 <br/>
   <p align="center">
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrofcr&hide_border=true&theme=nightowl" />
