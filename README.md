@@ -42,7 +42,7 @@
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat=square)&nbsp;
 ![Kanban](https://img.shields.io/badge/-Kanban-grey?style=flat=square)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat=square&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
 <!-- ![]()&nbsp; -->
 
