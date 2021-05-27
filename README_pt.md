@@ -1,17 +1,17 @@
-## Hey, I am [Leandro](https://leandrofcr.github.io/) &nbsp; :man_technologist:
+## Olá, Eu sou o [Leandro](https://leandrofcr.github.io/) &nbsp; :man_technologist:
 
 <table align="right">
  <tr><td><a href="README.md"><img src="https://www.countryflags.io/us/shiny/64.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="https://www.countryflags.io/br/shiny/64.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Currently studying web development at [Trybe](https://www.betrybe.com/) \
-&nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and help people.\
-&nbsp;&nbsp;&nbsp;:mountain_bicyclist: &nbsp;Going further each day with my bicycle.\
-&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil (for a while..?).
+&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Atualmente estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) \
+&nbsp;&nbsp;&nbsp;:telescope: &nbsp;Amor por ciência e inovação\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Apaixonado por resolver problemas e ajudar as pessoas.\
+&nbsp;&nbsp;&nbsp;:mountain_bicyclist: &nbsp;Indo cada dia mais longe com minha bike.\
+&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Vivendo no Brasil.
 
 <p align="center">
   <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Leandro%20Reis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 <hr/>
 
 
-<b> :computer: &nbsp;Technologies and tools, always learning</b>
+<b> :computer: &nbsp;Tecnologias e ferramentas - cada dia aprendendo mais</b>
   <br/>
 
 
@@ -46,7 +46,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
 <!-- ![]()&nbsp; -->
 
-<b> :books: &nbsp;Coming soon...</b>
+<b> :books: &nbsp;Em breve...</b>
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
@@ -60,7 +60,7 @@
 
 <hr/>
 
-<b>:gear: &nbsp;GitHub Statistics</b>
+<b>:gear: &nbsp;Estatísticas do GitHub</b>
 <br/>
   <p align="center">
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrofcr&hide_border=true&theme=nightowl" />
