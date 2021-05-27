@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Mechanical Engineer at PUC (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and help people.\
-&nbsp;&nbsp;&nbsp;:bicyclist: &nbsp;Going further each day with my bicycle.\
+&nbsp;&nbsp;&nbsp;:bicyclist: &nbsp;Going further each day with my bike.\
 &nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil (for a while..?).
 
 <p align="center">
