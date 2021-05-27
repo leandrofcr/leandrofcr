@@ -1,0 +1,78 @@
+## Hey, I am [Leandro](https://leandrofcr.github.io/) &nbsp; :man_technologist:
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="https://www.countryflags.io/us/shiny/64.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="https://www.countryflags.io/br/shiny/64.png" height="13"> Português</a></td></tr>
+</table>
+
+### :space_invader: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Currently studying web development at trybe [Trybe](https://www.betrybe.com/) \
+&nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and help people.\
+&nbsp;&nbsp;&nbsp;:mountain_bicyclist: &nbsp;Going further each day with my bicycle.\
+&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil (for a while..?).\
+
+<p align="center">
+  <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/leandrofcr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/leandrofcr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/leandrofcr"><img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  </a>
+</p>
+</p>
+
+<hr/>
+
+
+  <summary><b> :computer: &nbsp;Technologies and tools, always learning</b></summary>
+  <br/>
+
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat=square&logo=bootstrap&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat=square&logo=jest&logoColor=white)&nbsp;
+![RTL](https://img.shields.io/badge/-RTL-E33332?style=flat=square&testinglibrary=rtl&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat=square&logo=github&logoColor=white)&nbsp;
+![Test DD](https://img.shields.io/badge/-Test%20DD-orange?style=flat=square)&nbsp;
+![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat=square)&nbsp;
+![Kanban](https://img.shields.io/badge/-Kanban-grey?style=flat=square)&nbsp;
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat=square&logo=linux&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
+<!-- ![]()&nbsp; -->
+
+<summary><b> :books: &nbsp;Coming soon...</b></summary>
+<br/>
+
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node-dot-js&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat=square&logo=heroku&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat=square&logo=python&logoColor=white)&nbsp;
+<!-- ![]()&nbsp; -->
+
+<hr/>
+
+<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+<br/>
+  <p align="center">
+      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrofcr&hide_border=true&theme=nightowl" />
+  </p>
+  <p align="center">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leandrofcr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofcr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  </p>
+
+
+<hr/>
+<br/>
+
+<!-- <p align="right">
+<img src="https://komarev.com/ghpvc/?username=leandrofcr&style=plastic&label=Views"><img>
+</p> -->
