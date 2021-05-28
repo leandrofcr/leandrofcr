@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and help people.\
 &nbsp;&nbsp;&nbsp;:bicyclist: &nbsp;Going further each day with my bike.\
-&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil (for a while..?).
+&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil.
 
 <p align="center">
   <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Leandro%20Reis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
