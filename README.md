@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Currently studying web development at [Trybe](https://www.betrybe.com/) \
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Mechanical Engineer at [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and help people.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and helping people.\
 &nbsp;&nbsp;&nbsp;:bicyclist: &nbsp;Going further each day with my bike.\
 &nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil.
 
@@ -18,8 +18,7 @@
   <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Leandro%20Reis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/leandrofcr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/leandrofcr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/leandrofcr"><img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  </a>
+   </a>
 </p>
 </p>
 
