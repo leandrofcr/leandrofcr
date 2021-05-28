@@ -5,7 +5,7 @@
  <tr><td><a href="README_pt.md"><img src="https://www.countryflags.io/br/shiny/64.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Currently studying web development at [Trybe](https://www.betrybe.com/) \
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Mechanical Engineer at [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
