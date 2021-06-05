@@ -10,7 +10,6 @@
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Currently studying web development at [Trybe](https://www.betrybe.com/) \
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Mechanical Engineer at [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and helping people.\
 &nbsp;&nbsp;&nbsp;:bicyclist: &nbsp;Going further each day with my bike.\
 &nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil.
 
