@@ -10,7 +10,6 @@
 &nbsp;&nbsp;&nbsp;:rocket: &nbsp;Atualmente estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) \
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Engenheiro Mecânico pela [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Amor por ciência e inovação\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Apaixonado por resolver problemas e ajudar as pessoas.\
 &nbsp;&nbsp;&nbsp;:bicyclist:&nbsp;Indo cada dia mais longe com minha bike.\
 &nbsp;&nbsp;&nbsp;:brazil: &nbsp;Vivendo no Brasil.
 
