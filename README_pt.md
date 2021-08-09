@@ -36,6 +36,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat=square&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat=square&logo=bootstrap&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat=square&logo=github&logoColor=white)&nbsp;
 ![Test DD](https://img.shields.io/badge/-Test%20DD-orange?style=flat=square)&nbsp;
@@ -50,7 +51,6 @@
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node-dot-js&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat=square&logo=heroku&logoColor=white)&nbsp;
