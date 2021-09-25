@@ -1,4 +1,4 @@
-## Hey, I am [Leandro](https://leandrofcr.github.io/portfolio) &nbsp; :man_technologist:
+## Hey, I am [Leandro](https://leandrofcr.vercel.app/) &nbsp; :man_technologist:
 
 <table align="right">
  <tr><td><a href="README.md"><img src="https://www.countryflags.io/us/shiny/64.png" height="13"> English</a></td></tr>
