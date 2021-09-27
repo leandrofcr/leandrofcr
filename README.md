@@ -17,7 +17,7 @@
   <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Leandro%20Reis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/leandrofcr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/leandrofcr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leandrofcr.github.io/portfolio/"><img src="https://img.shields.io/badge/-portfolio-green?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leandrofcr.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-green?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    </a>
 </p>
 </p>
