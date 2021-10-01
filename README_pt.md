@@ -64,10 +64,10 @@
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrofcr&hide_border=true&theme=nightowl" />
   </p>
   <p align="center">
-      <img height="157px" src="https://github-readme-stats.vercel.app/api?username=leandrofcr&theme=nightowl&count_private=true" />
+      <img height="157px" src="https://github-readme-stats.vercel.app/api?username=leandrofcr&theme=nightowl&count_private=true&hide_border=true" />
 </p>
  <p align="center">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofcr&layout=compact&hide_title=true&theme=nightowl" />
+	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofcr&layout=compact&hide_title=true&theme=nightowl&hide_border=true" />
   </p>
 
 
