@@ -50,7 +50,7 @@
 
 <!-- ![]()&nbsp; -->
 
-<b> :books: &nbsp;Em breve...</b>
+<b> :books: &nbsp;Na minha lista de estudos</b>
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
