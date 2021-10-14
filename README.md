@@ -39,6 +39,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat=square&logo=css3&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node.js&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat=square&logo=sequelize&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat=square&logo=heroku&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
