@@ -54,8 +54,12 @@
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat=square&logo=graphql&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat=square&logo=next.js&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat=square&logo=socket.io&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat=square&logo=python&logoColor=white)&nbsp;
 <!-- ![]()&nbsp; -->
+
 
 <hr/>
 
