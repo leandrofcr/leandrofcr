@@ -7,7 +7,7 @@
 
 ### &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Atualmente estudando desenvolvimento web na [Trybe](https://www.betrybe.com/) \
+&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Atualmente desenvolvendo coisas legais na [Digital Repuclic](https://www.digitalrepublic.com.br/) \
 &nbsp;&nbsp;&nbsp;:gear: &nbsp;Engenheiro Mecânico pela [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
 &nbsp;&nbsp;&nbsp;:telescope: &nbsp;Amor por ciência e inovação\
 &nbsp;&nbsp;&nbsp;:bicyclist:&nbsp;Indo cada dia mais longe com minha bike.\
