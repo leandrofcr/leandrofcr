@@ -42,6 +42,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat=square&logo=sequelize&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat=square&logo=heroku&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat=square&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat=square&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat=square&logo=github&logoColor=white)&nbsp;
 ![Test DD](https://img.shields.io/badge/-Test%20DD-orange?style=flat=square)&nbsp;
@@ -54,10 +55,8 @@
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat=square&logo=graphql&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat=square&logo=next.js&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat=square&logo=socket.io&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat=square&logo=python&logoColor=white)&nbsp;
+![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat=square&logo=go&logoColor=white)&nbsp;
+
 <!-- ![]()&nbsp; -->
 
 
