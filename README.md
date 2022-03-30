@@ -1,8 +1,8 @@
 ## Hey, I am [Leandro](https://leandrofcr.vercel.app/) &nbsp; :man_technologist:
 
 <table align="right">
- <tr><td><a href="README.md"><img src="https://www.countryflags.io/us/shiny/64.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="https://www.countryflags.io/br/shiny/64.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
 
 ### &nbsp;About Me
