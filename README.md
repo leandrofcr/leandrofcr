@@ -64,9 +64,6 @@
 
 <b>:gear: &nbsp;GitHub Statistics</b>
   <p align="center">
-      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrofcr&hide_border=true&theme=nightowl" />
-  </p>
-  <p align="center">
       <img height="157px" src="https://github-readme-stats.vercel.app/api?username=leandrofcr&theme=nightowl&count_private=true&hide_border=true" />
 </p>
  <p align="center">
@@ -76,7 +73,3 @@
 
 <hr/>
 <br/>
-
-<!-- <p align="right">
-<img src="https://komarev.com/ghpvc/?username=leandrofcr&style=plastic&label=Views"><img>
-</p> -->
