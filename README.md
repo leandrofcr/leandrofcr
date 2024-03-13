@@ -1,4 +1,4 @@
-## Hey, I am [Leandro](https://leandrofcr.vercel.app/) &nbsp; :man_technologist:
+## Hey, I am [Leandro](https://leandrofcr.vercel.app/)
 
 ### &nbsp;About Me
 
@@ -40,5 +40,3 @@
 ![Test DD](https://img.shields.io/badge/-Test%20DD-orange?style=flat=square)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
-
-
