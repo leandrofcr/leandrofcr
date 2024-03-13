@@ -29,8 +29,9 @@
   <br/>
 
 
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
 ![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat=square&logo=redux&logoColor=white)&nbsp;
@@ -54,8 +55,6 @@
 <b> :books: &nbsp;On my study list</b>
 <br/>
 
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
-![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat=square&logo=go&logoColor=white)&nbsp;
 
 
 <!-- ![]()&nbsp; -->
