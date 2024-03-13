@@ -1,6 +1,5 @@
 # Leandro Reis
 
-
 Software Developer @ [Digital Republic](https://www.digitalrepublic.com.br/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Reis-166775?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofcr/)](https://www.linkedin.com/in/leandrofcr) 
@@ -13,7 +12,6 @@ Web developer passionate about technology and always looking for new challenges.
 "People do not decide their futures, they decide their habits and their habits decide their futures"
 
 ---
-
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)&nbsp;
