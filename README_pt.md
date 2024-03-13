@@ -7,11 +7,11 @@
 
 ### &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Software Developer na [Digital Repuclic](https://www.digitalrepublic.com.br/) \
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;Graduado como Web Developer na [Trybe](https://www.betrybe.com/)\
-&nbsp;&nbsp;&nbsp;:gear: &nbsp;Engenheiro Mecânico pela [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
-&nbsp;&nbsp;&nbsp;:telescope: &nbsp;Amor por ciência e inovação\
-&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Vivendo no Brasil.
+&nbsp;&nbsp;&nbsp; :computer: &nbsp;Software Developer na [Digital Repuclic](https://www.digitalrepublic.com.br/) \
+&nbsp;&nbsp;&nbsp; :rocket: &nbsp;Graduado como Web Developer na [Trybe](https://www.betrybe.com/)\
+&nbsp;&nbsp;&nbsp; :gear: &nbsp;Engenheiro Mecânico pela [PUC](https://www.pucminas.br/institucional/Paginas/a-puc-minas.aspx) (Pontifícia Universidade Católica - MG).\
+&nbsp;&nbsp;&nbsp; :telescope: &nbsp;Amor por ciência e inovação\
+&nbsp;&nbsp;&nbsp; :brazil: &nbsp;Vivendo no Brasil.
 
 <p align="center">
   <a href="mailto:lleandrofr@gmail.com?subject=Olá%20Leandro%20Reis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
