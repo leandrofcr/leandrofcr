@@ -13,22 +13,22 @@ Web developer passionate about technology and always looking for new challenges.
 
 ---
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
-![RTL](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
-![Test DD](https://img.shields.io/badge/-TDD-orange?style=flat-square)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/-React-2F3134?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-2F3134?style=flat-square&logo=javascript&logoColor=yellow)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-2F3134?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![Hooks](https://img.shields.io/badge/-2F3134-2F3134?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![RTL](https://img.shields.io/badge/-RTL-2F3134?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-2F3134?style=flat-square&logo=redux&logoColor=764ABC)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-2F3134?style=flat-square&logo=jest&logoColor=C21325)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-2F3134?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-2F3134?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.Js-2F3134?style=flat-square&logo=node.js&logoColor=339933)&nbsp;
+![Go](https://img.shields.io/badge/-Go-2F3134?style=flat-square&logo=go&logoColor=00ADD8)&nbsp;
+![Python](https://img.shields.io/badge/-Python-2F3134?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-2F3134?style=flat-square&logo=mysql&logoColor=4479A1)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-2F3134?style=flat-square&logo=sequelize&logoColor=52B0E7)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-2F3134?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-2F3134?style=flat-square&logo=heroku&logoColor=430098)&nbsp;
+![Git](https://img.shields.io/badge/-Git-2F3134?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![Test DD](https://img.shields.io/badge/-TDD-2F3134?style=flat-square)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-2F3134?style=flat-square&logo=linux&logoColor=FCC624)&nbsp;
