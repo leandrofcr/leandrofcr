@@ -6,7 +6,7 @@ Software Developer @ [Digital Republic](https://www.digitalrepublic.com.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Reis-166775?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofcr/)](https://www.linkedin.com/in/leandrofcr) 
 [![Gmail Badge](https://img.shields.io/badge/-lleandrofr@gmail.com-166775?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lleandrofr@gmail.com)](mailto:lleandrofr@gmail.com)
 [![Personal Badge](https://img.shields.io/badge/-Personal%20Page-166775?style=flat-square&logo=Vercel&logoColor=white&link=https://leandrofcr.vercel.app)](https://leandrofcr.vercel.app)
-[![Resume Badge](https://img.shields.io/badge/-Resume-fc5957?style=flat-square&logo=Read.cv&logoColor=white&link=https://drive.google.com/file/d/1P4zH0p7V8NCveThheONu1Wtr1YUlZgjo/view?usp=sharing)](https://drive.google.com/file/d/1P4zH0p7V8NCveThheONu1Wtr1YUlZgjo/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-166775?style=flat-square&logo=Read.cv&logoColor=white&link=https://drive.google.com/file/d/1P4zH0p7V8NCveThheONu1Wtr1YUlZgjo/view?usp=sharing)](https://drive.google.com/file/d/1P4zH0p7V8NCveThheONu1Wtr1YUlZgjo/view?usp=sharing)
 
 
 ---
