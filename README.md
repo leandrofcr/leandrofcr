@@ -16,7 +16,7 @@ Web developer passionate about technology and always looking for new challenges.
 ![React](https://img.shields.io/badge/-React-30363d?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-30363d?style=flat-square&logo=javascript&logoColor=yellow)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
-![Hooks](https://img.shields.io/badge/-30363d-30363d?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Hooks](https://img.shields.io/badge/-Hooks-30363d?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
 ![RTL](https://img.shields.io/badge/-RTL-30363d?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-30363d?style=flat-square&logo=redux&logoColor=764ABC)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-30363d?style=flat-square&logo=jest&logoColor=C21325)&nbsp;
