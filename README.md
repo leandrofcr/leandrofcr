@@ -52,12 +52,7 @@
 
 <!-- ![]()&nbsp; -->
 
-<b> :books: &nbsp;On my study list</b>
-<br/>
 
-
-
-<!-- ![]()&nbsp; -->
 
 <hr/>
 
