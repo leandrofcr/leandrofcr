@@ -20,10 +20,6 @@
 <hr/>
 
 
-<b> :computer: &nbsp;Technologies and tools, always learning</b>
-  <br/>
-
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat=square&logo=react&logoColor=black)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat=square&logo=javascript&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
@@ -45,20 +41,4 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
 
-<!-- ![]()&nbsp; -->
 
-
-
-<hr/>
-
-<b>:gear: &nbsp;GitHub Statistics</b>
-  <p align="center">
-      <img height="157px" src="https://github-readme-stats.vercel.app/api?username=leandrofcr&theme=nightowl&count_private=true&hide_border=true" />
-</p>
- <p align="center">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofcr&layout=compact&hide_title=true&theme=nightowl&hide_border=true" />
-  </p>
-
-
-<hr/>
-<br/>
