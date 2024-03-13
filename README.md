@@ -1,10 +1,5 @@
 ## Hey, I am [Leandro](https://leandrofcr.vercel.app/) &nbsp; :man_technologist:
 
-<table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_pt.md">Português</a></td></tr>
-</table>
-
 ### &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :computer: &nbsp;Software Developer at [Digital Republic](https://www.digitalrepublic.com.br/) \
