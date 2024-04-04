@@ -23,6 +23,7 @@ Web developer passionate about technology and always looking for new challenges.
 ![HTML5](https://img.shields.io/badge/-HTML-30363d?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-30363d?style=flat-square&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-30363d?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-30363d?style=flat-square&logo=OpenJDK&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-30363d?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
