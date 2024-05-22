@@ -5,7 +5,7 @@ Software Developer @ [Digital Republic](https://www.digitalrepublic.com.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Reis-166775?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofcr/)](https://www.linkedin.com/in/leandrofcr) 
 [![Gmail Badge](https://img.shields.io/badge/-lleandrofr@gmail.com-166775?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lleandrofr@gmail.com)](mailto:lleandrofr@gmail.com)
 [![Personal Badge](https://img.shields.io/badge/-Personal%20Page-166775?style=flat-square&logo=Vercel&logoColor=white&link=https://leandrofcr.vercel.app)](https://leandrofcr.vercel.app)
-[![Resume Badge](https://img.shields.io/badge/-Resume-166775?style=flat-square&logo=Read.cv&logoColor=white&link=https://drive.google.com/file/d/195bmPoalFmMD-6yXCzJsUxGX4Z925WQ2/view)](https://drive.google.com/file/d/195bmPoalFmMD-6yXCzJsUxGX4Z925WQ2/view)
+[![Resume Badge](https://img.shields.io/badge/-Resume-166775?style=flat-square&logo=Read.cv&logoColor=white&link=https://drive.google.com/file/d/14Z6a917ANXO_Dx13uRbCfD-kDWH-oaVu/view)](https://drive.google.com/file/d/14Z6a917ANXO_Dx13uRbCfD-kDWH-oaVu/view)
 
 Web developer passionate about technology and always looking for new challenges.
 
@@ -17,7 +17,7 @@ Web developer passionate about technology and always looking for new challenges.
 ![Typescript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-30363d?style=flat-square&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-30363d?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-30363d?style=flat-square&logo=OpenJDK&logoColor=white)
 ![React](https://img.shields.io/badge/-React-30363d?style=flat-square&logo=react&logoColor=white)
 ![Hooks](https://img.shields.io/badge/-Hooks-30363d?style=flat-square&logo=react&logoColor=white)
 ![RTL](https://img.shields.io/badge/-RTL-30363d?style=flat-square&logo=react&logoColor=white)
