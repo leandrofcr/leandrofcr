@@ -13,22 +13,21 @@ Web developer passionate about technology and always looking for new challenges.
 
 ---
 
-![React](https://img.shields.io/badge/-React-30363d?style=flat-square&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-30363d?style=flat-square&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJs-30363d?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-30363d?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-30363d?style=flat-square&logo=react&logoColor=white)
 ![Hooks](https://img.shields.io/badge/-Hooks-30363d?style=flat-square&logo=react&logoColor=white)
 ![RTL](https://img.shields.io/badge/-RTL-30363d?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-30363d?style=flat-square&logo=redux&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-30363d?style=flat-square&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-30363d?style=flat-square&logo=sequelize&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-30363d?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-30363d?style=flat-square&logo=jest&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML-30363d?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-30363d?style=flat-square&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJs-30363d?style=flat-square&logo=node.js&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/-Go-30363d?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-30363d?style=flat-square&logo=sequelize&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-30363d?style=flat-square&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-30363d?style=flat-square&logo=git&logoColor=white)
-![Test DD](https://img.shields.io/badge/-TDD-30363d?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-30363d?style=flat-square&logo=linux&logoColor=white)
