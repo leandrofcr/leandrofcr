@@ -12,9 +12,8 @@ Web developer passionate about technology and always looking for new challenges.
 "People do not decide their futures, they decide their habits and their habits decide their futures"
 
 ---
-
-![Javascript](https://img.shields.io/badge/-Javascript-30363d?style=flat-square&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-30363d?style=flat-square&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-30363d?style=flat-square&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-30363d?style=flat-square&logo=OpenJDK&logoColor=white)
@@ -23,7 +22,7 @@ Web developer passionate about technology and always looking for new challenges.
 ![RTL](https://img.shields.io/badge/-RTL-30363d?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-30363d?style=flat-square&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-30363d?style=flat-square&logo=jest&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-30363d?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-30363d?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-30363d?style=flat-square&logo=sequelize&logoColor=white)
