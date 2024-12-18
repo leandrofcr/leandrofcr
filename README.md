@@ -1,6 +1,6 @@
 # Leandro Reis
 
-Software Developer @[Mercado Livre(https://www.mercadolivre.com.br)]
+Software Developer @[Mercado Livre](https://www.mercadolivre.com.br)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Reis-166775?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofcr/)](https://www.linkedin.com/in/leandrofcr) 
 [![Gmail Badge](https://img.shields.io/badge/-lleandrofr@gmail.com-166775?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lleandrofr@gmail.com)](mailto:lleandrofr@gmail.com)
