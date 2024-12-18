@@ -7,7 +7,7 @@ Software Developer @[Mercado Livre](https://www.mercadolivre.com.br)
 [![Personal Badge](https://img.shields.io/badge/-Personal%20Page-166775?style=flat-square&logo=Vercel&logoColor=white&link=https://leandrofcr.vercel.app)](https://leandrofcr.vercel.app)
 [![Resume Badge](https://img.shields.io/badge/-Resume-166775?style=flat-square&logo=Read.cv&logoColor=white&link=https://drive.google.com/file/d/14Z6a917ANXO_Dx13uRbCfD-kDWH-oaVu/view)](https://drive.google.com/file/d/14Z6a917ANXO_Dx13uRbCfD-kDWH-oaVu/view)
 
-Web developer passionate about technology and always looking for new challenges.
+Developer passionate about technology and always looking for new challenges.
 
 "People do not decide their futures, they decide their habits and their habits decide their futures"
 
