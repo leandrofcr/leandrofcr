@@ -14,6 +14,7 @@ Developer passionate about technology and always looking for new challenges.
 ---
 ![Java](https://img.shields.io/badge/-Java-30363d?style=flat-square&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-30363d?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-30363d?style=flat-square&logo=hibernate&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-30363d?style=flat-square&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-30363d?style=flat-square&logo=node.js&logoColor=white)&nbsp;
@@ -24,11 +25,9 @@ Developer passionate about technology and always looking for new challenges.
 ![Redux](https://img.shields.io/badge/-Redux-30363d?style=flat-square&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-30363d?style=flat-square&logo=jest&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-30363d?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-30363d?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-30363d?style=flat-square&logo=elasticsearch&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-30363d?style=flat-square&logo=hibernate&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-30363d?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML-30363d?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-30363d?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-30363d?style=flat-square&logo=linux&logoColor=white)
